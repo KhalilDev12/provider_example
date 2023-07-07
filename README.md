@@ -1,6 +1,6 @@
 # provider_example
 
-A new Flutter project.
+A Simple App shows how Provider State Management works.
 
 ## Getting Started
 
